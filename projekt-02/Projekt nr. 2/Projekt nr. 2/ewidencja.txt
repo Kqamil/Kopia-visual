@@ -1,0 +1,5 @@
+Seat|2018|SB7131N|kamil|marek|20.23.2345||Kamil|Marek|17.02.2016|20.23.2345|
+Ford|2017|SB888nn|
+Seat|2015|sb|
+345|0|0|
+seat|2015|sb12345|
